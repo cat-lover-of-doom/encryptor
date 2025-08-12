@@ -357,6 +357,7 @@ def intro_text():
     clear(69)
     main()
 
+#this code has possible improvements
 
 def main():
     print(menu1)
@@ -372,6 +373,7 @@ def main():
     clear(69)
     print(menu2)
     inptu = input('plesase select a procces:')
+
     if seleccion1 == 1:
         if inptu == '1':
             clear(69)
